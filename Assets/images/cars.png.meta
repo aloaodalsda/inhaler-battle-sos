@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 633e9adc02be31556bd1892be9731bee
+guid: e601238be3025a6ee846d670e9243b5a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -108,12 +108,38 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: cars_0
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 292
+        width: 348
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -142, y: -21}
+        - {x: 42, y: -53}
+        - {x: 68, y: 88}
+        - {x: -115, y: 121}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34c18176b16a5aafbb9ad543387b732
+      internalID: 733739679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bd6d92027f2f8504f9e78cac6a231e3f
     internalID: 0
     vertices: []
     indices: 
@@ -122,7 +148,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cars_0: 733739679
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
